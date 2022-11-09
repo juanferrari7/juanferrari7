@@ -1,7 +1,8 @@
-<h1 align="center">Hola! Mi nombre es Juan👋</h1>
+<h1 align="center">Hi! My name is Juan👋</h1>
 
-<h3 align="center">Soy desarrollador web FullStack 💻🚀</h3>
+<h3 align="center">I'm a FullStack Developer 💻🚀</h3>
 
+<p align="center">I have experience in NodeJs, React, Redux, Express, Sequelize and PostgreSQL. Currently looking for a job to learn and expand my knowledge, I like team work and I learn quickly</p>
 
 - 📫 How to reach me **juan.ferrari304@gmail.com**
 
