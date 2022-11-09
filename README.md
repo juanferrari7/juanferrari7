@@ -1,5 +1,9 @@
 <h1 align="center">Hola! Mi nombre es Juan👋</h1>
+
 <h3 align="center">Soy desarrollador web FullStack 💻🚀</h3>
+
+
+- 📫 How to reach me **juan.ferrari304@gmail.com**
 
 <h3 align="center">Contacto 📲</h3>
 <p align="center">
