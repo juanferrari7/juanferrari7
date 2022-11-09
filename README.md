@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **juan.ferrari304@gmail.com**
 
-<h3 align="center">Contacto 📲</h3>
+<h3 align="center">Contact me 📲</h3>
 <p align="center">
 <a href="https://linkedin.com/in/juanferrari7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanferrari7" height="30" width="40" /></a>
 </p>
